@@ -1,5 +1,5 @@
 # 🌍 Atlas Géographique - Application Mobile Interactive
-
+![alt text](image.png)
 Une application Flutter moderne et complète présentant un atlas géographique interactif, permettant de consulter la liste des pays et leurs détails.
 
 ## 🎯 Objectif
