@@ -1,0 +1,29 @@
+name: aymenmaiza
+description: "Atlas Géographique - Application mobile interactive présentant un atlas géographique avec liste des pays et leurs détails."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  country_icons: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - lib/data/pays_info.json
+    - assets/images/
